@@ -5,7 +5,7 @@
 Run following commands on your terminal
 1.  git clone https://github.com/nomankabeer/Laravel-Sever-Side-Pagination-With-DataTables.git
 
-create database name contegris and open terminal in you project root directory, then run following commands.
+create database name contegris and open terminal in project's root directory, then run following commands.
 1.  cp .env.example .env
 2.  composer install
 3.  php artisan key:generate
