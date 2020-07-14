@@ -1,15 +1,17 @@
 # Laravel-Sever-Side-Pagination-With-DataTables
  Laravel-Sever-Side-Pagination-With-DataTables
 
-# Run this project on local
+# Run this project on local environemnt.
 Run following commands on your terminal
 1.  git clone https://github.com/nomankabeer/Laravel-Sever-Side-Pagination-With-DataTables.git
 2.  cp .env.example .env
 3.  create database name contegris
-4.  composer install
-5.  php artisan key:generate
-6.  php artisan migrate --seed
-7.  php artisan serve
+
+Open terminal in you project root directory, then run following commands.
+1.  composer install
+2.  php artisan key:generate
+3.  php artisan migrate --seed
+4.  php artisan serve
 
 # Hit following on browser
 127.0.0.1:8000/
